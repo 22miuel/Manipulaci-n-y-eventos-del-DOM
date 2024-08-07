@@ -2,8 +2,8 @@
 
 # Project Name
 
-> One paragraph statement about the project.
-
+> DOM Manipulation and Events
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto&labelColor=black)
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://22miuel.github.io/Manipulaci-n-y-eventos-del-DOM/)
 
 
 ## Getting Started
@@ -43,17 +43,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Miguel Alfonso Gallardo Olivero**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@miul22](https://github.com/22miuel)
 
 ## 🤝 Contributing
 
